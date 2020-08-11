@@ -9,7 +9,7 @@ A greedy algorithm, as the name suggests, always makes the choice that seems to
 How do you decide which choice is optimal?
 Assume that you have an objective function that needs to be optimized (either maximized or minimized) at a given point. A Greedy algorithm makes greedy choices at each step to ensure that the objective function is optimized. The Greedy algorithm has only one shot to compute the optimal solution so that it never goes back and reverses the decision.
 
-#Algorithm
+##Algorithm
 
 Step 1: 	Enter the number of cities, places, etc. 
 Step 2: 	Prompt the user to enter the distance between each and every city.
