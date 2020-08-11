@@ -23,4 +23,3 @@ Step 9: 	Print the corresponding city name of that element and mark that city as
 Step 10: 	Go to the next city, after recording the distance travelled or the cost.
 Step 11: 	Go to step 7, until all the rows (cities) are marked as done. 
 Step 12: 	After printing the path, print the distance travelled or the total cost of the given path.
-
