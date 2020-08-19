@@ -1,4 +1,4 @@
-# TSP using Greedys Algorithm
+# TSP using Greedy Algorithm
 C++ project to find optimal solution of Travelling Salesman Problem using Greedy's algorithm. The program would take input of no of cities and distances between them and give the shortest possible route to visit all cities and return to origin city. 
 
 The travelling salesman problem is a classic mathematical problem. It is used for optimization in the field of computer science and operational research. 
